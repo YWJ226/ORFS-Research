@@ -3,7 +3,7 @@
 	url = https://github.com/The-OpenROAD-Project/yosys.git
 [submodule "tools/OpenROAD"]
 	path = tools/OpenROAD
-	url = https://github.com/ieee-ceda-datc/OpenROAD-Research.git
+	url = git@github.com:YWJ226/OpenROAD-Research.git
 [submodule "tools/yosys-slang"]
 	path = tools/yosys-slang
 	url = https://github.com/povik/yosys-slang.git
